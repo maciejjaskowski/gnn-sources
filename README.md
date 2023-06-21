@@ -1,1 +1,5 @@
 # gnn-sources
+
+* [Graph Neural Networks: A Deep Neural Network for Graphs]([url](https://arshren.medium.com/graph-neural-networks-a-deep-neural-network-for-graphs-acb3df1e605a)https://arshren.medium.com/graph-neural-networks-a-deep-neural-network-for-graphs-acb3df1e605a) A nice introduction explaining differences between convolutional GNN and attention GNN.
+* [Introduction to Message Passing Neural Networks]([url](https://towardsdatascience.com/introduction-to-message-passing-neural-networks-e670dc103a87)https://towardsdatascience.com/introduction-to-message-passing-neural-networks-e670dc103a87) Shows the general MPNN networks. It's an exploded version of [Papers with code]([url](https://paperswithcode.com/method/mpnn)https://paperswithcode.com/method/mpnn) version
+* [WEISFEILER-LEHMAN graph isomorphism TEST]([url](https://arxiv.org/pdf/2201.07083.pdf)https://arxiv.org/pdf/2201.07083.pdf) The test is useful to determine if two graphs are definitely not isomorphic but can't rule out that two graphs are not isomorphic, if the test is positive. This paper shows rigorously different tests and their algorithms.
